@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "craftBirchStairChair": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "woohooman43:stair_chair/birch"
+            }
+        }
+    },
+    "rewards": {
+        "function": "woohooman43:craft/stair_chair/birch"
+    }
+}

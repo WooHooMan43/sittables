@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "craftAcaciaStairChair": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "woohooman43:stair_chair/acacia"
+            }
+        }
+    },
+    "rewards": {
+        "function": "woohooman43:craft/stair_chair/acacia"
+    }
+}

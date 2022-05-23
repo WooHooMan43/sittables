@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "craftSpuceStairChair": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "woohooman43:stair_chair/crimson"
+            }
+        }
+    },
+    "rewards": {
+        "function": "woohooman43:craft/stair_chair/crimson"
+    }
+}

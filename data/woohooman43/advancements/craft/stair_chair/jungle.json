@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "craftJungleStairChair": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "woohooman43:stair_chair/jungle"
+            }
+        }
+    },
+    "rewards": {
+        "function": "woohooman43:craft/stair_chair/jungle"
+    }
+}
